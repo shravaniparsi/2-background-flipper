@@ -1,0 +1,30 @@
+html,
+body,
+#root,
+.wrapper {
+  height: 100%;
+  margin-top: -11px;
+}
+
+.text-wrapper {
+  width: 600px;
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+
+button {
+  margin: 0 10px;
+  padding: 10px 10px;
+  background-color: white;
+  border: 2px solid black;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+h1{
+  background-color: white;
+  border: 2px solid black;
+  border-radius: 6px;
+  padding: 10px;
+}
